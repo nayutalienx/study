@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PlantWithRarity
+comment1.params=
+comment1.target=PlantWithRarity()
+comment2.params=name\ type\ requirement\ minTemp\ maxTemp\ isRare
+comment2.target=PlantWithRarity(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ boolean)
+comment3.params=ob
+comment3.target=PlantWithRarity(PlantWithRarity)
+comment4.params=ob
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=int\ hashCode()
+comment6.params=plant
+comment6.target=int\ compareTo(Plant)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=boolean\ getRare()
+comment9.params=rarity
+comment9.target=void\ setRare(boolean)
+numComments=10
