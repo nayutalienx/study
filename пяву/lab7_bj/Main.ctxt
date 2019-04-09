@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=b
+comment1.target=byte\ byteProccess(byte)
+comment2.params=b
+comment2.target=java.lang.String\ byteToString(byte)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
