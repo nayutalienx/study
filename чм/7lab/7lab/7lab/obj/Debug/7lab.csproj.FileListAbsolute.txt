@@ -1,0 +1,10 @@
+D:\study\ЧМ\7lab\7lab\7lab\bin\Debug\7lab.exe.config
+D:\study\ЧМ\7lab\7lab\7lab\bin\Debug\7lab.exe
+D:\study\ЧМ\7lab\7lab\7lab\bin\Debug\7lab.pdb
+D:\study\ЧМ\7lab\7lab\7lab\obj\Debug\7lab.csprojAssemblyReference.cache
+D:\study\ЧМ\7lab\7lab\7lab\obj\Debug\7lab.csproj.CoreCompileInputs.cache
+D:\study\ЧМ\7lab\7lab\7lab\obj\Debug\7lab.exe
+D:\study\ЧМ\7lab\7lab\7lab\obj\Debug\7lab.pdb
+D:\study\ЧМ\7lab\7lab\7lab\bin\Debug\MathNet.Numerics.dll
+D:\study\ЧМ\7lab\7lab\7lab\bin\Debug\MathNet.Numerics.xml
+D:\study\ЧМ\7lab\7lab\7lab\obj\Debug\7lab.csproj.CopyComplete
